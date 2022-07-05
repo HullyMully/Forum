@@ -1,0 +1,613 @@
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Forum.exe
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Forum.deps.json
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Forum.runtimeconfig.json
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Forum.runtimeconfig.dev.json
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Forum.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Forum.pdb
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Forum.Views.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Forum.Views.pdb
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csprojAssemblyReference.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.AssemblyInfo.cs
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorAssemblyInfo.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorAssemblyInfo.cs
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\staticwebassets\Forum.StaticWebAssets.Manifest.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\staticwebassets\Forum.StaticWebAssets.xml
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\scopedcss\bundle\Forum.styles.css
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.TagHelpers.input.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.TagHelpers.output.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorCoreGenerate.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Main.cshtml.g.cs
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorTargetAssemblyInfo.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorTargetAssemblyInfo.cs
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.Views.pdb
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.dll
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.pdb
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.genruntimeconfig.cache
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.CopyComplete
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Join.cshtml.g.cs
+C:\Users\david\Desktop\ \Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\ \Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.exe
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.deps.json
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.runtimeconfig.json
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.runtimeconfig.dev.json
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.pdb
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.Views.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.Views.pdb
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.AssemblyInfo.cs
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorAssemblyInfo.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorAssemblyInfo.cs
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\staticwebassets\Forum.StaticWebAssets.Manifest.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\staticwebassets\Forum.StaticWebAssets.xml
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\scopedcss\bundle\Forum.styles.css
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.TagHelpers.input.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.TagHelpers.output.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorCoreGenerate.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Join.cshtml.g.cs
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Main.cshtml.g.cs
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorTargetAssemblyInfo.cache
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorTargetAssemblyInfo.cs
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.Views.pdb
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.CopyComplete
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.dll
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.pdb
+C:\Users\david\Desktop\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.genruntimeconfig.cache
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.Cookies.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\david\Desktop\Forum\Forum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.exe
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.deps.json
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.runtimeconfig.json
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.runtimeconfig.dev.json
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.pdb
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.Views.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.Views.pdb
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Owin.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Host.SystemWeb.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.Cookies.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csprojAssemblyReference.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.AssemblyInfoInputs.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.AssemblyInfo.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.CoreCompileInputs.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.MvcApplicationPartsAssemblyInfo.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorAssemblyInfo.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorAssemblyInfo.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\staticwebassets\Forum.StaticWebAssets.Manifest.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\staticwebassets\Forum.StaticWebAssets.xml
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\scopedcss\bundle\Forum.styles.css
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.TagHelpers.input.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.TagHelpers.output.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorCoreGenerate.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Main.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorTargetAssemblyInfo.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorTargetAssemblyInfo.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.Views.pdb
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.CopyComplete
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.dll
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.pdb
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.genruntimeconfig.cache
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MyProfile.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Profile.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Profile\NewArticle.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Article.cshtml.g.cs
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Мусор\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Panel.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Report.cshtml.g.cs
+C:\Мусор\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Profile\SendReport.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.exe
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.deps.json
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.runtimeconfig.json
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.runtimeconfig.dev.json
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.pdb
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.Views.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Forum.Views.pdb
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Owin.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Host.SystemWeb.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.Cookies.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\Owin.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Diplom1\Защита\Forum\Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.AssemblyReference.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.AssemblyInfoInputs.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.AssemblyInfo.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.CoreCompileInputs.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.MvcApplicationPartsAssemblyInfo.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorAssemblyInfo.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorAssemblyInfo.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\staticwebassets\Forum.StaticWebAssets.Manifest.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\staticwebassets\Forum.StaticWebAssets.xml
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\scopedcss\bundle\Forum.styles.css
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.TagHelpers.input.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.TagHelpers.output.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorCoreGenerate.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Login.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Panel.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Report.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Main.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Article.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Profile\NewArticle.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Profile\SendReport.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MyProfile.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Profile.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorTargetAssemblyInfo.cache
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.RazorTargetAssemblyInfo.cs
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.Views.pdb
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.csproj.CopyComplete
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.dll
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.pdb
+D:\Diplom1\Защита\Forum\Forum\obj\Debug\netcoreapp3.1\Forum.genruntimeconfig.cache

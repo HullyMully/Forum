@@ -1,0 +1,25 @@
+﻿@model Forum.ViewModels.AdminLoginViewModel
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Вход";
+}
+
+<body class="text-center">
+    <div class="form-signin">
+        <form method="post" asp-controller="Admin" asp-action="Login">
+            <h3 class="h5 mb-3 fw-normal text-white">Подтвердите что вы являетесь админом</h3>
+            <div asp-validation-summary="ModelOnly"></div>
+            <div class="form-floating ptd-10px">
+                <input type="text" class="bg-dark text-white form-control" id="floatingInput" placeholder="Имя" asp-for="Login">
+                <label for="floatingInput" class="text-secondary" asp-for="Login">Логин</label>
+                <span asp-validation-for="Login"></span>
+            </div>
+            <div class="form-floating ptd-10px">
+                <input type="password" class="bg-dark text-white form-control" id="floatingPassword" placeholder="Пароль" asp-for="Password">
+                <label for="floatingPassword" class="text-secondary" asp-for="Password">Пароль</label>
+                <span asp-validation-for="Password"></span>
+            </div>
+            <input value="Войти" class="w-100 btn btn-lg bg-warning" type="submit" />
+        </form>
+    </div>
+</body>

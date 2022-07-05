@@ -1,0 +1,17 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNet.Identity
+
+@{
+    Layout = "_Layout";
+}
+
+@if (ViewBag.IsMyProfile)
+{
+    ViewBag.Title = $"{ViewBag.User.UserName}";
+    <partial name="_MyProfile" />
+}
+else
+{
+    ViewBag.Title = $"{ViewBag.User.UserName}";
+    <partial name="_Profile" />
+}

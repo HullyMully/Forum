@@ -1,0 +1,68 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNet.Identity
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link rel="stylesheet" href="~/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/StyleSheets.css" asp-append-version="true" />
+
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class="page">
+        <header class="p-3 bg-dark text-white">
+            <div class="container">
+                <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+                    <a asp-action="Main" asp-controller="Home" class="d-flex align-items-center mb-2 mb-lg-0 text-warning text-decoration-none font_post font-size32 px-3">
+                        Forum
+                    </a>
+
+                    <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+                    </ul>
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a asp-action="Index" asp-controller="Profile" asp-route-id="@ViewBag.User.Id" class="text-warning px-3 d-block link-dark text-decoration-none">
+                            @User.Identity.Name
+                            <img src="~/Source/UserAvatars/@ViewBag.User.AvatarUrl" alt="mdo" class="rounded-circle" width="32" height="32">
+                        </a>
+
+                        if (ViewBag.User.Role == "Admin")
+                        {
+                            <form method="post" asp-controller="Admin" asp-action="Panel">
+                                <input class="btn btn-outline-warning me-2" type="submit" value="Админ-панель" />
+                            </form>
+                        }
+
+                        <form method="post" asp-controller="Account" asp-action="Logout">
+                            <input class="btn btn-outline-light me-2" type="submit" value="Выход" />
+                        </form>
+
+                    }
+                    else
+                    {
+                        <div class="text-end">
+                            <a asp-action="Login" asp-controller="Account" class="btn btn-outline-light me-2">Войти</a>
+                            <a asp-action="Register" asp-controller="Account" class="btn btn-warning">Зарегестрироваться</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </header>
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-success">@TempData["message"]</div>
+        }
+        <div class="content">
+            @RenderBody()
+        </div>
+
+        <footer class="footer py-3 bg-dark">
+            <p class="text-center text-muted">© 2021 Forum Company, Inc</p>
+        </footer>
+    </div>
+    <script asp-append-version="true" src="~/js/JavaScript.js"></script>
+</body>
+</html>

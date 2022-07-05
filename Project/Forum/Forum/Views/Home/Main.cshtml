@@ -1,0 +1,48 @@
+﻿@using Microsoft.AspNet.Identity
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Forum";
+}
+
+<body>
+    <div>
+        <div class="text-center w-50 m-auto">
+            @if (ViewBag.CountArticles != 0)
+            {
+                for (int i = ViewBag.CountArticles - 1; i >= 0; i--)
+                {
+                    <a asp-action="Article" asp-controller="Profile" asp-route-id="@ViewBag.Articles[i].Id" class="m text-decoration-none card bg-dark mb-3">
+                        <div class="card-body">
+                            <div class="d-flex flex-column text-center text-white">
+                                @if (ViewBag.Articles[i].Name.Length > 36)
+                                {
+                                    for (int j = 0; j < 36; j++)
+                                    {
+                                        @ViewBag.Articles[i].Name[j]
+                                    }
+                                    <text>...</text>
+                                }
+                                else
+                                {
+                                    @ViewBag.Articles[i].Name
+                                }
+                            </div>
+                            <h6 class=" text-secondary">@@@ViewBag.UserManager.FindByIdAsync(ViewBag.Articles[i].UserId).Result.UserName</h6>
+                        </div>
+                    </a>
+                }
+            }
+            else
+            {
+                <div class="m text-decoration-none card bg-dark mb-3">
+                    <div class="card-body">
+                        <div class="d-flex flex-column text-center text-white">
+                            Тут ничего нет :( Заполни эту пустоту своей статьёй!
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</body>

@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Report>
+
+@{
+    Layout = "_Layout";
+    string Role = string.Empty;
+}
+<div class="d-flex justify-content-between">
+    <div class="d-flex justify-content-center w-75">
+        <table class=" table table-bordered table-sm">
+
+            <tr>
+                <th class="text-right text-muted">ID</th>
+                <th class="text-muted">ID-Статьи</th>
+                <th class="text-right text-muted">ID-На кого</th>
+                <th class="text-right text-muted">ID-От кого</th>
+                <th class="text-right text-muted">Содержание</th>
+                <th class="text-center text-muted">Действие</th>
+            </tr>
+
+            @foreach (var item in Model)
+
+            {
+
+                <tr class="text-white">
+
+                    <td class="text-right ">@item.Id</td>
+                    <td><a class="text-decoration-none text-white" asp-action="Article" asp-controller="Profile" asp-route-id="@item.ArticleId">@item.ArticleId</a></td>
+                    <td class="text-right"><a class="text-decoration-none text-white" asp-action="Index" asp-controller="Profile" asp-route-id="@item.HostUserId">@item.HostUserId</a></td>
+                    <td class="text-right"><a class="text-decoration-none text-white" asp-action="Index" asp-controller="Profile" asp-route-id="@item.SenderUserId">@item.SenderUserId</a></td>
+                    <td class="text-right" data-tooltip="@item.Content">
+                        @if (item.Content.Length > 20)
+                        {
+                            for (int j = 0; j < 20; j++)
+                            {
+                                @item.Content[j]
+                            }
+                            <text>...</text>
+                        }
+                    </td>
+
+                    <td class="text-center">
+
+                        <form asp-action="Reject" method="post">
+                            <a asp-action="Accept" class="btn btn-sm btn-success"
+                               asp-route-id="@item.Id">
+                                Принять
+                            </a>
+
+                            <input type="hidden" name="id" value="@item.Id" />
+
+                            <button type="submit" class="btn btn-danger btn-sm">
+                                Отклонить
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+    <div class=" bg-dark w-auto">
+        <a asp-action="Panel" class="btn btn-outline-warning">Пользователи</a>
+        <a asp-action="Report" class="btn btn-outline-danger">Жалобы</a>
+    </div>
+</div>

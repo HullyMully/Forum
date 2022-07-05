@@ -1,0 +1,80 @@
+﻿@model IEnumerable<User>
+
+@{
+    Layout = "_Layout";
+    string Role = string.Empty;
+}
+<div class="d-flex justify-content-between">
+    <div class="d-flex justify-content-center w-75">
+        <table class=" table table-bordered table-sm">
+
+            <tr>
+                <th class="text-right text-muted">ID</th>
+                <th class="text-muted">Ник</th>
+                <th class="text-right text-muted">Почта</th>
+                <th class="text-right text-muted">Роль</th>
+                <th class="text-center text-muted">Действие</th>
+            </tr>
+
+            @foreach (var item in Model)
+
+            {
+
+                <tr class="text-white">
+
+                    <td class="text-right ">@item.Id</td>
+                    <td>@item.UserName</td>
+                    <td class="text-right">@item.Email</td>
+                    @{
+                        if (item.Role == "Admin")
+                        {
+                            <td class="text-right">
+                                <form asp-action="EditRole" method="post">
+                                    <select name="role" asp-for="@Role">
+                                        <option value="Admin">Admin</option>
+                                        <option value="User">User</option>
+                                    </select>
+                                    <button type="submit" class="btn-outline-warning btn" asp-action="EditRole" asp-route-id="@item.Id">Сохранить</button>
+                                </form>
+                            </td>
+
+                        }
+                        else
+                        {
+                            <td class="text-right">
+                                <form asp-action="EditRole" method="post">
+                                    <select name="role" asp-for="@Role">
+                                        <option value="User">User</option>
+                                        <option value="Admin">Admin</option>
+                                    </select>
+                                    <button type="submit" class="btn-outline-warning btn " asp-action="EditRole" asp-route-id="@item.Id">Сохранить</button>
+                                </form>
+                            </td>
+
+                        }
+                    }
+
+                    <td class="text-center">
+
+                        <form asp-action="Delete" method="post" id="dlt-btn-box">
+                            <a asp-action="ViewPage" class="btn btn-sm btn-warning"
+                               asp-route-id="@item.Id">
+                                Посетить страницу
+                            </a>
+
+                            <input type="hidden" name="id" value="@item.Id" />
+
+                            <button type="submit" class="btn btn-danger btn-sm" id="dlt-btn">
+                                Удалить
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+    <div class="text-center bg-dark w-auto">
+        <a asp-action="Panel" class="btn btn-outline-warning">Пользователи</a>
+        <a asp-action="Report" class="btn btn-outline-danger">Жалобы</a>
+    </div>
+</div>

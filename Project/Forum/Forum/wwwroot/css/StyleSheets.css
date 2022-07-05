@@ -1,0 +1,164 @@
+﻿@font-face {
+    font-family: 'Days';
+    src: url('/Source/Fonts/standart/fonts/days.eot'); /* IE 9 Compatibility Mode */
+    src: url('/Source/Fonts/standart/days.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+    url('/Source/Fonts/standart/days.woff2') format('woff2'), /* Super Modern Browsers */
+    url('/Source/Fonts/standart/days.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+    url('/Source/Fonts/standart/days.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/Source/Fonts/standart/days.svg#days') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Postmaster';
+    src: url('/Source/Fonts/standart/postmaster.eot'); /* IE 9 Compatibility Mode */
+    src: url('/Source/Fonts/standart/postmaster.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+    url('/Source/Fonts/standart/postmaster.woff2') format('woff2'), /* Super Modern Browsers */
+    url('/Source/Fonts/standart/postmaster.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+    url('/Source/Fonts/standart/postmaster.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/Source/Fonts/standart/postmaster.svg#postmaster') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+[data-tooltip] {
+    position: relative; /* Относительное позиционирование */
+}
+
+    [data-tooltip]::after {
+        content: attr(data-tooltip); /* Выводим текст */
+        position: absolute; /* Абсолютное позиционирование */
+        width: 300px; /* Ширина подсказки */
+        left: 0;
+        top: 0; /* Положение подсказки */
+        background: #3989c9; /* Синий цвет фона */
+        color: #fff; /* Цвет текста */
+        padding: 0.5em; /* Поля вокруг текста */
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Параметры тени */
+        pointer-events: none; /* Подсказка */
+        opacity: 0; /* Подсказка невидима */
+        transition: 1s; /* Время появления подсказки */
+    }
+
+    [data-tooltip]:hover::after {
+        opacity: 1; /* Показываем подсказку */
+        top: 2em; /* Положение подсказки */
+    }
+
+.text-size-16{
+    font-size: 16px;
+}
+
+.text-size-12{
+    font-size: 12px;
+}
+
+.text-wrapping {
+    inline-size: 920px;
+    overflow-wrap: break-word;
+}
+
+.font-size-24{
+    font-size: 24px;
+}
+
+body {
+    background-color: #313036;
+}
+
+p{
+    color: #fff;
+}
+
+span {
+    color: #fff;
+}
+
+li{
+    color: #fff;
+}
+
+.font_post{
+    font-family: Postmaster;
+}
+
+.font-size32{
+    font-size: 32px;
+}
+
+.pr-30px{
+    padding-right:30px;
+}
+
+.ptd-10px{
+    padding: 10px 0 10px 0;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+a.rollover:hover {
+    background: url(/Source/Images/plus.png); /* Путь к файлу с заменяемым рисунком  */
+    opacity: 0.5;
+}
+
+.footer{
+    padding: 20px;
+    margin-top: auto;
+}
+
+/*.page {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}*/
+
+.content{
+    /*max-width: 800px;*/
+    margin: 0 auto;
+    padding: 40px 20px;
+    min-height: 600px;
+}
+
+.cont {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 40%;
+    opacity: 0;
+    transition: .3s ease;
+    background: black;
+}
+
+.cont:hover .overlay {
+    opacity: 0.5;
+}
+
+.icon {
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.fa-user:hover {
+    color: #eee;
+}

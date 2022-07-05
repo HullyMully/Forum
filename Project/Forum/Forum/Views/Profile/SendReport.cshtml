@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Жалоба";
+}
+
+<body class="text-center">
+    <div class="d-flex justify-content-evenly">
+        <a class="text-decoration-none mb-3" asp-action="Index" asp-controller="Profile" asp-route-id="@User.Identity.GetUserId()">
+            <div class="text-warning">
+                <img src="~/Source/UserAvatars/@ViewBag.UserManager.FindByIdAsync(User.Identity.GetUserId()).Result.AvatarUrl" alt="mdo" class="rounded-circle" width="64" height="64">
+                @ViewBag.UserManager.FindByIdAsync(User.Identity.GetUserId()).Result.UserName
+            </div>
+        </a>
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
+            </svg>
+
+        <a class="text-decoration-none mb-3" asp-action="Index" asp-controller="Profile" asp-route-id="@Model.UserId">
+            <div class="text-warning">
+                <img src="~/Source/UserAvatars/@ViewBag.UserManager.FindByIdAsync(Model.UserId).Result.AvatarUrl" alt="mdo" class="rounded-circle" width="64" height="64">
+                @ViewBag.UserManager.FindByIdAsync(Model.UserId).Result.UserName
+            </div>
+        </a>
+    </div>
+    <div class="form-signin">
+        <form method="post" asp-controller="Profile" asp-action="SendReport">
+            <h3 class="h5 mb-3 fw-normal text-white">Опишите вашу жалобу</h3>
+            <div asp-validation-summary="ModelOnly"></div>
+            <div class="form-floating ptd-10px">
+                <textarea type="text" class="bg-dark text-white form-control" id="floatingInput" placeholder="Описание" name="content"></textarea>
+                <label for="floatingInput" class="text-secondary" name="content">Описание</label>
+            </div>
+            
+            <input value="Отправить" class="w-100 btn btn-lg bg-warning" asp-route-userId="@ViewBag.UserId" asp-route-articleId="@ViewBag.ArticleId" type="submit" />
+        </form>
+    </div>
+</body>

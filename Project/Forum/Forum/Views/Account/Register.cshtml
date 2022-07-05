@@ -1,0 +1,35 @@
+﻿@model Forum.ViewModels.RegisterViewModel
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Регистрация";
+}
+
+<body class="text-center">
+    <div class="form-signin">
+        <form method="post" asp-controller="Account" asp-action="Register">
+            <h3 class="h5 mb-3 fw-normal text-white">Создайте новый аккаунт</h3>
+            <div asp-validation-summary="ModelOnly"></div>
+            <div class="form-floating ptd-10px">
+                <input type="text" class="bg-dark text-white form-control" id="floatingInput" placeholder="Имя" asp-for="UserName">
+                <label for="floatingInput" class="text-secondary" asp-for="UserName">Имя</label>
+                <span asp-validation-for="UserName"></span>
+            </div>
+            <div class="form-floating ptd-10px">
+                <input type="text" class="bg-dark text-white form-control" id="floatingInput" placeholder="Email" asp-for="Email">
+                <label for="floatingInput" class="text-secondary" asp-for="Email">Email</label>
+                <span asp-validation-for="Email"></span>
+            </div>
+            <div class="form-floating ptd-10px">
+                <input type="password" class="bg-dark text-white form-control" id="floatingInput" placeholder="Пароль" asp-for="Password">
+                <label for="floatingInput" class="text-secondary" asp-for="Password">Пароль</label>
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div class="form-floating ptd-10px">
+                <input type="password" class="bg-dark text-white form-control" id="floatingInput" placeholder="Повторите пароль" asp-for="PasswordConfirm">
+                <label for="floatingInput" class="text-secondary" asp-for="PasswordConfirm">Повторите пароль</label>
+                <span asp-validation-for="PasswordConfirm"></span>
+            </div>
+            <input type="submit" class="w-100 btn btn-lg bg-warning" value="Зарегестрироваться"/>
+        </form>
+    </div>
+</body>

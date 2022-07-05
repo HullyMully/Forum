@@ -1,0 +1,41 @@
+﻿@model Forum.ViewModels.ArticleViewModel
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Создать статью";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="container m-5">
+        <div class="main-body">
+            <div class="">
+                <div class="">
+
+                    <div class="form-check ">
+                        <form method="post" asp-controller="Profile" asp-action="NewArticle">
+                            <h3 class="h5 mb-3 fw-normal text-white">Создание новой статьи</h3>
+                            <div asp-validation-summary="ModelOnly"></div>
+                            <div class="form-floating ptd-10px">
+                                <input type="text" class="bg-dark text-white form-control" id="floatingInput" placeholder="Название" asp-for="Name" />
+                                <label for="floatingInput" class="text-secondary" asp-for="Name">Название</label>
+                                <span asp-validation-for="Name"></span>
+                            </div>
+                            <div class="form-floating ptd-10px">
+                                <textarea type="text" class="h-75 bg-dark text-white form-control" id="floatingInput" placeholder="Содержание" asp-for="Content"></textarea>
+                                <label for="floatingInput" class="text-secondary" asp-for="Content">Содержание</label>
+                                <span asp-validation-for="Content"></span>
+                            </div>
+                            <div class="form-floating ptd-10px text-white">
+                                <input value="Cоздать" class="me-3 btn btn-lg bg-warning" type="submit" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <h1 class="text-center text-danger">Вы не авторизированны!</h1>
+}
